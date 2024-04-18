@@ -1,0 +1,19 @@
+{
+  "name": "simplimap",
+  "version": "0.0.1",
+  "description": "Do the IMAP thing, the simple way",
+  "main": "dist/index.js",
+  "author": "DimitriGilbert",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@lovely-inbox/imap": "^0.9.0",
+    "@types/imap": "^0.8.40",
+    "@types/mailparser": "^3.4.4",
+    "date-fns": "^3.6.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
